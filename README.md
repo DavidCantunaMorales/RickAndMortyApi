@@ -25,5 +25,9 @@ Esta aplicación utiliza la API de Rick and Morty para obtener información sobr
    ```bash
    npm install
    ```
+4. **Ejecutar el Servidor**
+   ```bash
+   npm run dev
+   ```
 
 
