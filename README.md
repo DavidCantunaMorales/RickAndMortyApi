@@ -18,5 +18,12 @@ Esta aplicación utiliza la API de Rick and Morty para obtener información sobr
 
 2. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/rick-and-morty-app.git
-   cd rick-and-morty-app
+   git clone https://github.com/DavidCantunaMorales/RickAndMortyApi
+   cd RickAndMortyApi
+   ```
+3. **Instalar Dependencias**
+   ```bash
+   npm install
+   ```
+
+
